@@ -10,5 +10,11 @@ int main()
         scanf("%d", &numbers[i]);
     }
 
+    for (int i = 5; i > 0; i--)
+    {
+        printf("%d ", numbers[i-1]);
+    }
+
+    printf("\n");
     return 0;
 }

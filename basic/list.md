@@ -34,8 +34,8 @@
 # Vetores e strings
 
 22. [x] **Média de um vetor** — Leia cinco números, armazene-os em um vetor e calcule a média.
-23. [ ] **Maior e menor do vetor** — Leia dez números e encontre o maior e o menor.
-24. [ ] **Vetor invertido** — Leia cinco números e mostre-os na ordem inversa.
+23. [x] **Maior e menor do vetor** — Leia dez números e encontre o maior e o menor.
+24. [x] **Vetor invertido** — Leia cinco números e mostre-os na ordem inversa.
 25. [ ] **Contagem de vogais** — Leia uma palavra ou frase e conte quantas vogais ela possui.
 26. [ ] **Palíndromo** — Verifique se uma palavra é igual quando lida de trás para frente.
 27. [ ] **Tamanho de uma string** — Calcule o tamanho de uma palavra sem utilizar strlen().
