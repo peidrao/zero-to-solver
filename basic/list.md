@@ -29,16 +29,15 @@
 18. [x] **Fatorial** — Leia um número e calcule seu fatorial.
 19. [x] **Quantidade de pares** — Leia dez números e informe quantos são pares.
 20. [x] **Maior número digitado** — Leia cinco números e mostre o maior deles.
-21. [ ] **Número primo** — Verifique se um número possui apenas dois divisores: 1 e ele mesmo.
-22. [ ] **Sequência de Fibonacci** — Mostre os primeiros N números da sequência.
-23. [ ] **Adivinhe o número** — Defina um número secreto e peça tentativas até o usuário acertar.
+21. [ ] **Sequência de Fibonacci** — Mostre os primeiros N números da sequência.
+22. [ ] **Adivinhe o número** — Defina um número secreto e peça tentativas até o usuário acertar.
 
 # Vetores e strings
 
-24. [ ] **Média de um vetor** — Leia cinco números, armazene-os em um vetor e calcule a média.
-25. [ ] **Maior e menor do vetor** — Leia dez números e encontre o maior e o menor.
-26. [ ] **Vetor invertido** — Leia cinco números e mostre-os na ordem inversa.
-27. [ ] **Contagem de vogais** — Leia uma palavra ou frase e conte quantas vogais ela possui.
-28. [ ] **Palíndromo** — Verifique se uma palavra é igual quando lida de trás para frente.
-29. [ ] **Tamanho de uma string** — Calcule o tamanho de uma palavra sem utilizar strlen().
-30. [ ] **Cadastro simples** — Crie uma struct para armazenar nome, idade e nota de três alunos.
+23. [ ] **Média de um vetor** — Leia cinco números, armazene-os em um vetor e calcule a média.
+24. [ ] **Maior e menor do vetor** — Leia dez números e encontre o maior e o menor.
+25. [ ] **Vetor invertido** — Leia cinco números e mostre-os na ordem inversa.
+26. [ ] **Contagem de vogais** — Leia uma palavra ou frase e conte quantas vogais ela possui.
+27. [ ] **Palíndromo** — Verifique se uma palavra é igual quando lida de trás para frente.
+28. [ ] **Tamanho de uma string** — Calcule o tamanho de uma palavra sem utilizar strlen().
+29. [ ] **Cadastro simples** — Crie uma struct para armazenar nome, idade e nota de três alunos.
