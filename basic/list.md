@@ -33,7 +33,7 @@
 
 # Vetores e strings
 
-22. [ ] **Média de um vetor** — Leia cinco números, armazene-os em um vetor e calcule a média.
+22. [x] **Média de um vetor** — Leia cinco números, armazene-os em um vetor e calcule a média.
 23. [ ] **Maior e menor do vetor** — Leia dez números e encontre o maior e o menor.
 24. [ ] **Vetor invertido** — Leia cinco números e mostre-os na ordem inversa.
 25. [ ] **Contagem de vogais** — Leia uma palavra ou frase e conte quantas vogais ela possui.
